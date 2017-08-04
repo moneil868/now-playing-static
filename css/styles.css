@@ -198,7 +198,45 @@ figure {
 
 
 @media ( min-width: 768px ) {
+
   .movie-overview {
     display: inline-block;
   }
+
+  .site-nav {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 6rem;
+    padding-top: 5.5rem;
+    z-index: 50
+}
+
+.site-logo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 6rem;
+    height: 6rem;
+    z-index: 100;
+    text-align: center;
+}
+
+.site-logo-image {
+    width: 50%;
+    margin: 25%;
+}
+
+
+  .site-nav-item {
+      float: none;
+      width: 100%;
+    }
+
+    main {
+      margin-left: 6rem;
+    }
+
+
+
 }
