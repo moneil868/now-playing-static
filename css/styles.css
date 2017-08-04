@@ -195,3 +195,10 @@ figure {
 .about > p {
   margin: 0;
 }
+
+
+@media ( min-width: 768px ) {
+	html {
+
+	}
+}
