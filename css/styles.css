@@ -198,7 +198,7 @@ figure {
 
 
 @media ( min-width: 768px ) {
-	html {
-
-	}
+  .movie-overview {
+    display: inline-block;
+  }
 }
