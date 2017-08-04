@@ -246,6 +246,8 @@ figure {
       display: inline-block;
       float: left;
       line-height: 40px;
+      background: white;
+      color: black;
     }
 
     .about {
@@ -253,6 +255,8 @@ figure {
       display: inline-block;
       margin-left: 3%;
       float: right;
+      background: white;
+      color: black;
     }
 
 
