@@ -199,6 +199,10 @@ figure {
 
 @media ( min-width: 768px ) {
 
+  footer {
+    margin-left: 6rem;
+  }
+
   .movie-overview {
     display: inline-block;
   }
@@ -237,6 +241,19 @@ figure {
       margin-left: 6rem;
     }
 
+    .footer-nav{
+      width: 48%;
+      display: inline-block;
+      float: left;
+      line-height: 40px;
+    }
+
+    .about {
+      width: 48%;
+      display: inline-block;
+      margin-left: 3%;
+      float: right;
+    }
 
 
 }
